@@ -7,9 +7,9 @@
 ## 📸 Galeri Dokumentasi
 | Mekanik & Motor | Foto Unit Operasional |
 | :---: | :---: | :---: |
-| [20230603_224058](https://github.com/user-attachments/assets/10549142-c777-4a15-bebd-6a62fdf34ccb)
-| [IMG-20230603-WA0060](https://github.com/user-attachments/assets/3c2b8e4b-a558-4edd-bec0-ded134636ebd)
-| [perancangan uji 2](https://github.com/user-attachments/assets/1e301d54-e0e7-45a8-99d9-669eb2a8323a)
+| https://github.com/user-attachments/assets/10549142-c777-4a15-bebd-6a62fdf34ccb
+| https://github.com/user-attachments/assets/3c2b8e4b-a558-4edd-bec0-ded134636ebd
+| https://github.com/user-attachments/assets/1e301d54-e0e7-45a8-99d9-669eb2a8323a
 
 ## 🌟 Keunggulan Utama
 * **Automated Tracking:** Menggerakkan motor secara otomatis ke posisi koordinat objek langit.
